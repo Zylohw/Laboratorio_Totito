@@ -57,7 +57,7 @@ tic-tac-toe/
 
 ---
 
-#📽️ Video
+## 📽️ Video
 
 - [Video](https://www.youtube.com/watch?v=cttltcqz534)
 
