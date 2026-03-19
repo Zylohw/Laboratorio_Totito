@@ -55,3 +55,10 @@ tic-tac-toe/
 
 4. Abre tu navegador en `http://localhost:3000`
 
+---
+
+#📽️ Video
+
+- [Video](https://www.youtube.com/watch?v=cttltcqz534)
+
+> NOTA: para tener acceso al video se requiere de una cuenta @galileo.edu
