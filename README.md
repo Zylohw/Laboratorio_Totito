@@ -17,19 +17,6 @@ Lab basado en el tutorial oficial de React: [Tutorial: Tic-Tac-Toe](https://reac
 
 ---
 
-## 🧠 Conceptos cubiertos
-
-| Concepto            | Descripción                                               |
-| ------------------- | --------------------------------------------------------- |
-| Componentes         | Funciones que retornan JSX (`Square`, `Board`, `Game`)    |
-| Props               | Paso de datos de componente padre a hijo                  |
-| Estado (`useState`) | Memoria del componente para datos que cambian             |
-| Lifting state up    | Elevar el estado al componente padre para compartirlo     |
-| Inmutabilidad       | Crear copias del estado en lugar de mutarlo directamente  |
-| Time travel         | Historial de movimientos para viajar a jugadas anteriores |
-
----
-
 ## 🏗️ Estructura del proyecto
 
 ```
@@ -68,13 +55,3 @@ tic-tac-toe/
 
 4. Abre tu navegador en `http://localhost:3000`
 
----
-
-## ✅ Funcionalidades implementadas
-
-- [x] Tablero de 3x3 con casillas interactivas
-- [x] Alternancia de turnos entre jugador **X** y jugador **O**
-- [x] Detección automática de ganador
-- [x] Indicador del turno actual o del ganador
-- [x] Historial de movimientos
-- [x] **Time travel:** botones para volver a cualquier jugada anterior
